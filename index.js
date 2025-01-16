@@ -29,38 +29,38 @@ console.log(document)
 // EVENT LISTENERS //
 
 
-document.getElementById("myH1").addEventListener("click", function(){
-    // function details go here.
-    document.getElementById("myH1").style.color = "red"
-});
+// document.getElementById("myH1").addEventListener("click", function(){
+//     // function details go here.
+//     document.getElementById("myH1").style.color = "red"
+// });
 
 
-document.getElementById("myH1").addEventListener("mouseover", function(){
-    // function details go here.
-    document.getElementById("myH1").style.color = "orange"
-});
+// document.getElementById("myH1").addEventListener("mouseover", function(){
+//     // function details go here.
+//     document.getElementById("myH1").style.color = "orange"
+// });
 
 
-document.getElementById("myH1").addEventListener("mouseover", function(){
-    // function details go here.
-     document.getElementById("myH1").style.fontSize = "50px"
-});
+// document.getElementById("myH1").addEventListener("mouseover", function(){
+//     // function details go here.
+//      document.getElementById("myH1").style.fontSize = "50px"
+// });
 
 
 
 
-document.getElementById("myParagraph").addEventListener("mouseover", function(){
-    // function details go here.
-    document.getElementById("myParagraph").style.color = "green"
-});
+// document.getElementById("myParagraph").addEventListener("mouseover", function(){
+//     // function details go here.
+//     document.getElementById("myParagraph").style.color = "green"
+// });
 
 
-document.getElementById("myParagraph").addEventListener("mouseover", function(){
-    // function details go here.
-    document.getElementById("myParagraph").style.fontSize = "18px"
-});
+// document.getElementById("myParagraph").addEventListener("mouseover", function(){
+//     // function details go here.
+//     document.getElementById("myParagraph").style.fontSize = "18px"
+// });
 
 
-document.getElementById("myButton").addEventListener("click", function(){
-    document.body.style.backgroundColor = "Black"
-});
+// document.getElementById("myButton").addEventListener("click", function(){
+//     document.body.style.backgroundColor = "Black"
+// });
